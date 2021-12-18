@@ -1,61 +1,61 @@
 fileFormatVersion: 2
-guid: 334122e4e02ee134993e15ddf4d26013
+guid: c7c5fb39684a3074f8451def7361266b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4855599178004398592
-    second: Idle Red Hood Female_0
+      213: 917256178622094560
+    second: Pink Girl Idle_0
   - first:
-      213: 4702570871910408220
-    second: Idle Red Hood Female_1
+      213: 5217682286800299367
+    second: Pink Girl Idle_1
   - first:
-      213: -3866939641834563411
-    second: Idle Red Hood Female_2
+      213: 4898961335822262921
+    second: Pink Girl Idle_2
   - first:
-      213: 9070847602792432727
-    second: Idle Red Hood Female_3
+      213: -124659024213397064
+    second: Pink Girl Idle_3
   - first:
-      213: 7244617345708050160
-    second: Idle Red Hood Female_4
+      213: -5930546417630384890
+    second: Pink Girl Idle_4
   - first:
-      213: -1190954377530912757
-    second: Idle Red Hood Female_5
+      213: 5981161719018898222
+    second: Pink Girl Idle_5
   - first:
-      213: -7741974014583577022
-    second: Idle Red Hood Female_6
+      213: 5437673747170779732
+    second: Pink Girl Idle_6
   - first:
-      213: -3800567223447070281
-    second: Idle Red Hood Female_7
+      213: 7016107441825252139
+    second: Pink Girl Idle_7
   - first:
-      213: 3926637664270003868
-    second: Idle Red Hood Female_8
+      213: 6093706795893681731
+    second: Pink Girl Idle_8
   - first:
-      213: 314943979196621109
-    second: Idle Red Hood Female_9
+      213: 6754553940674947118
+    second: Pink Girl Idle_9
   - first:
-      213: -7226771361904989412
-    second: Idle Red Hood Female_10
+      213: 3702837553275064831
+    second: Pink Girl Idle_10
   - first:
-      213: 3199514366337025873
-    second: Idle Red Hood Female_11
+      213: -6758646935673779419
+    second: Pink Girl Idle_11
   - first:
-      213: -5018637534956260168
-    second: Idle Red Hood Female_12
+      213: -6411296517978472342
+    second: Pink Girl Idle_12
   - first:
-      213: 485730853732810513
-    second: Idle Red Hood Female_13
+      213: 7454496338385182248
+    second: Pink Girl Idle_13
   - first:
-      213: 3374196972876973679
-    second: Idle Red Hood Female_14
+      213: 3939945347625319357
+    second: Pink Girl Idle_14
   - first:
-      213: 1576395010142602443
-    second: Idle Red Hood Female_15
+      213: 1252144856608294395
+    second: Pink Girl Idle_15
   - first:
-      213: -153653118683663748
-    second: Idle Red Hood Female_16
+      213: 1197921154113411637
+    second: Pink Girl Idle_16
   - first:
-      213: 9075064056383284590
-    second: Idle Red Hood Female_17
+      213: 188390649802982861
+    second: Pink Girl Idle_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -165,7 +165,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle Red Hood Female_0
+      name: Pink Girl Idle_0
       rect:
         serializedVersion: 2
         x: 20
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00e7e5f06427d9cb0800000000000000
-      internalID: -4855599178004398592
+      spriteID: 0ec5dc672afbabc00800000000000000
+      internalID: 917256178622094560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_1
+      name: Pink Girl Idle_1
       rect:
         serializedVersion: 2
         x: 100
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c10a15fea43e24140800000000000000
-      internalID: 4702570871910408220
+      spriteID: 7656497356ee86840800000000000000
+      internalID: 5217682286800299367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_2
+      name: Pink Girl Idle_2
       rect:
         serializedVersion: 2
         x: 181
@@ -221,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da8139832eed55ac0800000000000000
-      internalID: -3866939641834563411
+      spriteID: 9822f0e016b9cf340800000000000000
+      internalID: 4898961335822262921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_3
+      name: Pink Girl Idle_3
       rect:
         serializedVersion: 2
         x: 260
@@ -242,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7548528d5df12ed70800000000000000
-      internalID: 9070847602792432727
+      spriteID: 8b1b6b7274f154ef0800000000000000
+      internalID: -124659024213397064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_4
+      name: Pink Girl Idle_4
       rect:
         serializedVersion: 2
         x: 340
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f6cf80a71d0a8460800000000000000
-      internalID: 7244617345708050160
+      spriteID: 60dec2d547772bda0800000000000000
+      internalID: -5930546417630384890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_5
+      name: Pink Girl Idle_5
       rect:
         serializedVersion: 2
         x: 419
@@ -284,14 +284,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b00d297bd41e87fe0800000000000000
-      internalID: -1190954377530912757
+      spriteID: e234946d4ea510350800000000000000
+      internalID: 5981161719018898222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_6
+      name: Pink Girl Idle_6
       rect:
         serializedVersion: 2
         x: 498
@@ -305,14 +305,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 246e07807abfe8490800000000000000
-      internalID: -7741974014583577022
+      spriteID: 452e498867f767b40800000000000000
+      internalID: 5437673747170779732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_7
+      name: Pink Girl Idle_7
       rect:
         serializedVersion: 2
         x: 578
@@ -326,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b9d17d1f3ca14bc0800000000000000
-      internalID: -3800567223447070281
+      spriteID: b2308ff9b883e5160800000000000000
+      internalID: 7016107441825252139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_8
+      name: Pink Girl Idle_8
       rect:
         serializedVersion: 2
         x: 659
@@ -347,14 +347,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9eab74c6283e7630800000000000000
-      internalID: 3926637664270003868
+      spriteID: 34e60a68b02319450800000000000000
+      internalID: 6093706795893681731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_9
+      name: Pink Girl Idle_9
       rect:
         serializedVersion: 2
         x: 739
@@ -368,14 +368,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531a92461e7ee5400800000000000000
-      internalID: 314943979196621109
+      spriteID: e28252a950ffcbd50800000000000000
+      internalID: 6754553940674947118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_10
+      name: Pink Girl Idle_10
       rect:
         serializedVersion: 2
         x: 820
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1befa44cb955bb90800000000000000
-      internalID: -7226771361904989412
+      spriteID: ff1dfefd22f136330800000000000000
+      internalID: 3702837553275064831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_11
+      name: Pink Girl Idle_11
       rect:
         serializedVersion: 2
         x: 899
@@ -410,14 +410,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157074b4d55f66c20800000000000000
-      internalID: 3199514366337025873
+      spriteID: 52bc1ecbb667432a0800000000000000
+      internalID: -6758646935673779419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_12
+      name: Pink Girl Idle_12
       rect:
         serializedVersion: 2
         x: 979
@@ -431,14 +431,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b47d7870c73a5ab0800000000000000
-      internalID: -5018637534956260168
+      spriteID: a60c13019cf7607a0800000000000000
+      internalID: -6411296517978472342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_13
+      name: Pink Girl Idle_13
       rect:
         serializedVersion: 2
         x: 1058
@@ -452,14 +452,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11ff03153a9adb600800000000000000
-      internalID: 485730853732810513
+      spriteID: 82e16e49ce0b37760800000000000000
+      internalID: 7454496338385182248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_14
+      name: Pink Girl Idle_14
       rect:
         serializedVersion: 2
         x: 1137
@@ -473,14 +473,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f66c782054e83de20800000000000000
-      internalID: 3374196972876973679
+      spriteID: dbbf8af3b6f7da630800000000000000
+      internalID: 3939945347625319357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_15
+      name: Pink Girl Idle_15
       rect:
         serializedVersion: 2
         x: 1217
@@ -494,14 +494,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc48f3dd8ea70e510800000000000000
-      internalID: 1576395010142602443
+      spriteID: bf54879ec13806110800000000000000
+      internalID: 1252144856608294395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_16
+      name: Pink Girl Idle_16
       rect:
         serializedVersion: 2
         x: 1297
@@ -515,14 +515,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c72ba3a7d4d1eddf0800000000000000
-      internalID: -153653118683663748
+      spriteID: 53a1bdb51fedf9010800000000000000
+      internalID: 1197921154113411637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle Red Hood Female_17
+      name: Pink Girl Idle_17
       rect:
         serializedVersion: 2
         x: 1379
@@ -536,8 +536,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6524a27daa11fd70800000000000000
-      internalID: 9075064056383284590
+      spriteID: dc503804c4c4d9200800000000000000
+      internalID: 188390649802982861
       vertices: []
       indices: 
       edges: []
